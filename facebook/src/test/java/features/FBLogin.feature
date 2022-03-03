@@ -8,5 +8,3 @@ Then Home Page is populated
 
 Examples:
 |username|password|
-|madhumathy.c@gmail.com|inarya21#09|
-|cperiy0@gmail.com|chandru1|
